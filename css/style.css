@@ -540,13 +540,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
-#about .about-container .icon-box {
+/*#about .about-container .icon-box {
   background: #fff;
   background-size: cover;
-  /*padding: 0 0 30px 0;*/
-  border-radius: 25%;
   margin-top:-25px;
-}
+}*/
 
 #about .about-container .icon-box .icon {
   float: left;
