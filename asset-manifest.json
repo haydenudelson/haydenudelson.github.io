@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.540e341a.css",
-    "main.js": "/static/js/main.bc2bcf0c.js",
+    "main.js": "/static/js/main.e3d81c16.js",
     "static/media/moosilauke.jpg": "/static/media/moosilauke.084e818421346e1fc358.jpg",
     "static/media/headshot.jpg": "/static/media/headshot.525818a05a1d51c45d6e.jpg",
     "static/media/DMSans-Regular.ttf": "/static/media/DMSans-Regular.067ebd7ed3c947d82dc4.ttf",
@@ -9,10 +9,10 @@
     "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/index.html",
     "main.540e341a.css.map": "/static/css/main.540e341a.css.map",
-    "main.bc2bcf0c.js.map": "/static/js/main.bc2bcf0c.js.map"
+    "main.e3d81c16.js.map": "/static/js/main.e3d81c16.js.map"
   },
   "entrypoints": [
     "static/css/main.540e341a.css",
-    "static/js/main.bc2bcf0c.js"
+    "static/js/main.e3d81c16.js"
   ]
 }
