@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'DM Sans';
+    src: url('DM_Sans/DMSans-Regular.ttf') format('truetype');
+}
+
+.background {
+  background-color: #FCDCC5;
+  height: 200vh;
+  margin: 0;
+  font-family: 'DM Sans';
+  color: #181311;
+}
+
+.homeImage {
+  background-image: url("moosilauke.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 34vh;
+  border-bottom-style: solid;
+  border-width: 10px;
+  border-color: #5B869A;
+}
+
+.bottomGrid {
+  height: 66vh;
+}
+
+.headshot {
+  border-radius: 50%;
+  height: 276px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid;
+  border-width: 10px;
+  border-color: #5B869A;
+  position: relative;
+  top: -148px;
+  z-index: 1;
+}
+
+.toolbar {
+  justify-content: space-between;
+  border-bottom-style: solid;
+  border-width: 2px;
+  border-color: #181311;
+}
+
+.buttonLabel {
+  font-family: 'DM Sans';
+  text-transform: none;
+  font-size: 500px;
+}
+
+.welcomeTextBox {
+  position: relative;
+}
+
+.welcomeText{
+  position: absolute;
+  bottom: -9px;
+  margin: 0;
+  font-size: 36px;
+  color: #F5F6F7;
+}
+
+.introText {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+.icon {
+  font-size: 42px;
+  color: #181311;
+  margin-right: 28px;
+}
